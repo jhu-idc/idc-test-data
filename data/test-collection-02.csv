@@ -1,0 +1,6 @@
+local_id,title,title_language,alternative_title,member_of,contact_email,contact_name,collection_number,description,finding_aid
+collectionA,Collection A (parent),eng,Alternative Title For Collection A;eng|Alternativ Titel;ger|Titre alternatif pour Test Collection A;fre,,userA@example.com,User A,123-ABC,This is a collection of items;eng,https://www.example.com/123-ABC
+collectionB,Collection B,eng,Alternative Title For Collection B;eng|Alternativ Titel;ger|Titre alternatif pour Test Collection B;fre,collection-a,userB@example.com,User B,456-ABC,This is a collection of items;eng,https://www.example.com/456-ABC
+collectionC,Collection C,eng,Alternative Title For Collection C;eng|Alternativ Titel;ger|Titre alternatif pour Test Collection C;fre,collection-a,userC@example.com,User C,123-DEF,This is a collection of items;eng,https://www.example.com/123-DEF
+collectionD,Collection D (parent),eng,Alternative Title For Collection D;eng|Alternativ Titel;ger|Titre alternatif pour Test Collection D;fre,,userD@example.com,User D,456-DEF,This is a collection of items;eng,https://www.example.com/456-ABC
+collectionE,Collection E,eng,Alternative Title For Collection E;eng|Alternativ Titel;ger|Titre alternatif pour Test Collection E;fre,collection-d,userE@example.com,User E,789-ABC,This is a collection of items;eng,https://www.example.com/789-ABC
